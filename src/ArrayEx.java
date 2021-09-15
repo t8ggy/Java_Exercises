@@ -24,7 +24,9 @@ public class ArrayEx {
 		for (String i : sandwiches) {
 			System.out.println(i);
 		}
-
+		
+		
+		str1.charAt(3)
 	}
 
 }
